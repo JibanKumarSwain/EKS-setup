@@ -28,3 +28,7 @@ kubectl version --client
 
 ##  Setup EKS Cluster
  eksctl create cluster --name "cluser name" --region "region name" --node-type "which type node you need" --nodes-min "how much you need min" --nodes-max "how  much you need max"
+
+
+
+ ## With all documents link = https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/
