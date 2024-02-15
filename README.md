@@ -15,8 +15,10 @@
 
  ## Note: If you do not have root access on the target system, you can still install kubectl to the ~/.local/bin directory:
 
- chmod +x kubectl
+ chmod +x kubectl 
+ 
 mkdir -p ~/.local/bin
+
 mv ./kubectl ~/.local/bin/kubectl
 
 
@@ -31,4 +33,4 @@ kubectl version --client
 
 
 
- ## With all documents link = https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/
+  With all documents link = https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/
