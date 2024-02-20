@@ -19,7 +19,7 @@
      
 mkdir -p ~/.local/bin      
 
-mv ./kubectl ~/.local/bin/kubectl
+mv ./kubectl ~/.local/bin/kubectl     
 
 
  ## Test to ensure the version you installed is up-to-date:
