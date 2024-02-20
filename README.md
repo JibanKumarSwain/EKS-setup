@@ -17,7 +17,7 @@
 
  chmod +x kubectl 
      
-mkdir -p ~/.local/bin
+mkdir -p ~/.local/bin      
 
 mv ./kubectl ~/.local/bin/kubectl
 
