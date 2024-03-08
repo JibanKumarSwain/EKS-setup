@@ -5,7 +5,7 @@
 
 ## We need to install AWS kubectl 
 
-## Install kubectl binary with curl on Linux      
+## Install kubectl binary with curl on Linux          
                
  curl -LO "https://dl.k8s.io/release/$(curl -L -s https://dl.k8s.io/release/stable.txt)/bin/linux/amd64/kubectl"
           
