@@ -1,7 +1,7 @@
 # EKS-setup
       
 
-## How to Setup the AWS EKS ?
+## How to Setup the AWS EKS ? 
 
 # We need to install AWS kubectl    
 
