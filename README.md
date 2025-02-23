@@ -3,7 +3,7 @@
 
 ## How to Setup the AWS EKS ? 
 
-# We need to install AWS kubectl    
+# We need to install AWS kubectl       
 
 ## Install kubectl binary with curl on Linux                  
                
